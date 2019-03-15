@@ -1,5 +1,5 @@
 var key = window.my_uuid;
-var url_server = "https://app.reportapp.xyz";
+var url_server = "https://app.epsa.services";
 var key_dev = localStorage.getItem('key_dev');
 var id_cliente = localStorage.getItem('id_cliente');
 var lat = localStorage.getItem('lat');

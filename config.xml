@@ -112,6 +112,7 @@
 <gap:plugin name="cordova-plugin-datepicker" source="npm" />
 <gap:plugin name="cordova-plugin-android-fingerprint-auth" source="npm" />
 <gap:plugin name="cordova-sqlite-storage" source="npm" /> 
+<gap:plugin name="cordova-plugin-video-editor" source="npm" />
 
 <!--
 <gap:plugin name="de.appplant.cordova.plugin.background-mode" /> -->

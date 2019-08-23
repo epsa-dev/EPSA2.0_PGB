@@ -77,7 +77,7 @@
 <param name="SENDER_ID" value="361329804221" />
 </plugin>
 <platform name="android">
-<resource-file src="google-services.json" target="google-services.json" />
+<resource-file src="/google-services.json" target="/google-services.json" />
 </platform>
 <platform name="ios">
 <resource-file src="GoogleService-Info.plist" target="GoogleService-Info.plist" />
